@@ -1,0 +1,7 @@
+apiVersion: "example.immalik.com/v1alpha1"
+kind: "Dummy"
+metadata:
+  name: "dummy-project"
+  namespace: "default"
+spec:
+  replicas: 1
