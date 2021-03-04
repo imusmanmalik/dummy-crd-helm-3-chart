@@ -2,7 +2,16 @@ apiVersion: v1
 entries:
   dummy-crd-helm-3-chart:
   - apiVersion: v2
-    created: "2021-03-03T16:46:27.160525+01:00"
+    created: "2021-03-04T14:03:49.188395+01:00"
+    description: A Helm chart for Kubernetes
+    digest: 4705a9ec2f805cba068dd7124225f523284b907a8e49ff20376f3328937faa26
+    name: dummy-crd-helm-3-chart
+    type: application
+    urls:
+    - https://imusmanmalik.github.io/dummy-crd-helm-3-chart/dummy-crd-helm-3-chart-0.0.2.tgz
+    version: 0.0.2
+  - apiVersion: v2
+    created: "2021-03-04T14:03:49.184182+01:00"
     description: A Helm chart for Kubernetes
     digest: a14e0ddbfd5c553b72b798622fafe9743c39ea828b999a183485986aa53630cd
     name: dummy-crd-helm-3-chart
@@ -11,7 +20,7 @@ entries:
     - https://imusmanmalik.github.io/dummy-crd-helm-3-chart/dummy-crd-helm-3-chart-0.0.1.tgz
     version: 0.0.1
   - apiVersion: v2
-    created: "2021-03-03T16:46:27.161076+01:00"
+    created: "2021-03-04T14:03:49.18926+01:00"
     description: A Helm chart for Kubernetes
     digest: adfbd127b61a5ee81558be12d03926c5696b91f4080c0f21700881339d19f40f
     name: dummy-crd-helm-3-chart
@@ -19,4 +28,4 @@ entries:
     urls:
     - https://imusmanmalik.github.io/dummy-crd-helm-3-chart/.cr-release-packages/dummy-crd-helm-3-chart-0.0.1.tgz
     version: 0.0.1
-generated: "2021-03-03T16:46:27.158178+01:00"
+generated: "2021-03-04T14:03:49.181935+01:00"
