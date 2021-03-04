@@ -1,5 +1,5 @@
 apiVersion: "example.immalik.com/v1alpha1"
-kind: "Dummy"
+kind: "dummy"
 metadata:
   name: "dummy-project"
   namespace: "default"
